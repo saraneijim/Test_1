@@ -1,1 +1,1 @@
-const greetings = 'Hello World!a!vvc'
+const greetings = 'Hello World!'
